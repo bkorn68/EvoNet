@@ -1,0 +1,19 @@
+C:\Users\bk74784\Desktop\vbplugintest3\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Users\bk74784\Desktop\vbplugintest3\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Users\bk74784\Desktop\vbplugintest3\FrameworkLibrary\obj\Debug\FrameworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bk74784\Desktop\vbplugintest3\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Users\bk74784\Desktop\vbplugintest3\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb
+C:\Feynsinn\git\feynsinn_stringformatgenerator\StringFormatGenerator\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Feynsinn\git\feynsinn_stringformatgenerator\StringFormatGenerator\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Feynsinn\git\feynsinn_stringformatgenerator\StringFormatGenerator\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Feynsinn\git\feynsinn_stringformatgenerator\StringFormatGenerator\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\Entity_Framework_MVVM\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\Entity_Framework_MVVM\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\Entity_Framework_MVVM\FrameworkLibrary\obj\Debug\FrameworkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\Entity_Framework_MVVM\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\Entity_Framework_MVVM\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb
+C:\Users\korn\source\repos\Entity_Framework_MVVM\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Users\korn\source\repos\Entity_Framework_MVVM\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Users\korn\source\repos\Entity_Framework_MVVM\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\korn\source\repos\Entity_Framework_MVVM\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Users\korn\source\repos\Entity_Framework_MVVM\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb

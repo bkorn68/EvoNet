@@ -1,0 +1,16 @@
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\bin\Debug\EvoNet.exe.config
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\bin\Debug\EvoNet.exe
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\bin\Debug\EvoNet.pdb
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\EvoNet.csprojResolveAssemblyReference.cache
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\MainWindow.g.cs
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\Views\MainView.g.cs
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\App.g.cs
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\EvoNet_MarkupCompile.cache
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\EvoNet_MarkupCompile.lref
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\MainWindow.baml
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\Views\MainView.baml
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\EvoNet.g.resources
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\EvoNet.Properties.Resources.resources
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\EvoNet.csproj.GenerateResource.Cache
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\EvoNet.exe
+C:\Users\bk74784\Documents\Visual Studio 2015\Projects\EvoNet\EvoNet\obj\Debug\EvoNet.pdb
